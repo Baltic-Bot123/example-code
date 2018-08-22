@@ -1,7 +1,6 @@
 # example-code
 example code for Baltic bot in discord.js-command
-~Code below~
-\/\/\/\/\/
+
 const commando = require('discord.js-commando');
 
 class DiceRollCommand extends commando.Command {
